@@ -1,0 +1,5 @@
+{
+    "MONGO_URI_SERVER": "mongodb+srv://ProyectoG2:ProyectoG2@cluster0.rq1gk9f.mongodb.net/?retryWrites=true&w=majority",
+    "MONGO_URI_LOCAL": "mongodb://localhost",
+    "LOCAL_PORT": 27017
+}
