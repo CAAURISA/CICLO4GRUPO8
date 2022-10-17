@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Carlos\Documents\GitHub\Ciclo4AWeb\BackendResultados\venv"
+VIRTUAL_ENV="C:\Users\gisel\OneDrive\Documents\GitHub\CICLO4GRUPO8\BackendResultados\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
