@@ -86,7 +86,7 @@ def asignarPartidoCandidato(id_candidato, id_partido):
     return jsonify(json)
 
 #####################################################
-##                  ENDPOINTS MESA                 ##
+##                  ENDPOINTS MESA                ###
 #####################################################
 @app.route("/mesas", methods=['GET'])
 def getMesas():

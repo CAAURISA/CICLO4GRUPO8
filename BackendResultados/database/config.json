@@ -1,5 +1,5 @@
 {
-    "MONGO_URI_SERVER": "mongodb+srv://ciclo4grupo8:ciclo4grupo8@cluster0.7mdmjxg.mongodb.net/?retryWrites=true&w=majority",
+    "MONGO_URI_SERVER": "mongodb+srv://ciclo4grupo8:ciclo4grupo8@clescluster0.7mdmjxg.mongodb.net/?retryWrites=true&w=majority",
     "MONGO_URI_LOCAL": "mongodb://localhost",
     "LOCAL_PORT": 27017
 }
