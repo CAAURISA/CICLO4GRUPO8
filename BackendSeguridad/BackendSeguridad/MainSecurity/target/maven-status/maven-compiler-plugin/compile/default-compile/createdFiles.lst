@@ -1,0 +1,10 @@
+tutorial\misionTIC\ModuloSeguridad\Modelos\Permiso.class
+tutorial\misionTIC\ModuloSeguridad\Repositorios\RepositorioUsuario.class
+tutorial\misionTIC\ModuloSeguridad\Repositorios\RepositorioPermiso.class
+tutorial\misionTIC\ModuloSeguridad\Repositorios\RepositorioRol.class
+tutorial\misionTIC\ModuloSeguridad\Modelos\Usuario.class
+tutorial\misionTIC\ModuloSeguridad\Controladores\ControladorUsuario.class
+tutorial\misionTIC\ModuloSeguridad\Controladores\ControladorPermiso.class
+tutorial\misionTIC\ModuloSeguridad\ModuloSeguridadApplication.class
+tutorial\misionTIC\ModuloSeguridad\Modelos\Rol.class
+tutorial\misionTIC\ModuloSeguridad\Controladores\ControladorRol.class
