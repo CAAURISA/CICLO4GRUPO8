@@ -1,0 +1,8 @@
+Instalar apache maven
+
+
+Meterse hasta la carpeta MainSecurity desde el terminal de Intellij
+
+mvn compile
+mvn package
+java -jar .\target\ModuloSeguridad-0.0.1-SNAPSHOT.jar
